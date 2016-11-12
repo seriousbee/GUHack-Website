@@ -1,0 +1,117 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+body {
+
+}
+#home-arrow{
+    width:8vw;
+    margin-top:30%;
+    margin-left: 48%;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.lead {
+    margin-bottom: 20px;
+    font-size: 21px;
+    font-weight: 300;
+    line-height: 1.4;
+}
+.container{
+    width:100%;
+    padding:0px;
+    margin:0px;
+}
+
+.navbar-brand{
+    margin-left: 18px; 
+}
+.c{
+    margin-top: -25px;
+}
+.text-body {
+    width:80%;
+    margin-top:20px;
+    line-height: 1.7em;
+    font-size: 18px;
+    margin-left: 10%;
+}
+.image { 
+   position: relative; 
+   width: 100%; /* for IE 6 */
+   background: #123123;
+}
+.snapchat-bar{
+    background-color: rgba(0, 0, 0, 0.75);
+    color:white;
+    height: 6vw;
+    margin-top:10%;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    font-size:4vw;
+}
+.subtitle{
+    margin-top:20%;
+}
+h2 { 
+   padding: 5%;
+   left: 0; 
+   width: 100%; 
+}
+
+h2 span { 
+   color: white;  
+   letter-spacing: -1px;
+   line-height: 1.6;
+   padding: 10px; 
+   background-color: #696969;
+}
+
+.title-image{
+    width:100%;
+    height: 40vw;
+    background-position: 60% 40%;
+    background-size: 130% auto;
+    background-image: url(assets/img/ai_0.jpg);
+    background-repeat: no-repeat;
+}
+
+.title-text{
+    text-align: center;
+}
+
+li {
+    padding 8px;
+    text-align: left;
+    //border-bottom: solid #bdbcbd 1px;
+}
+
+.navbar-custom {
+    color: #4f7177;
+    background-color: #e1e4e3;
+}
+
+li ul li{
+    border-bottom: none;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+.article-img {
+    margin: 0px auto;
+    display: block;
+    width: 60%;
+}
+
+.lefty-img {
+    margin: 0px auto;
+    display: block;
+    width: 35%;
+}
